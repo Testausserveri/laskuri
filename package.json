@@ -1,24 +1,24 @@
 {
-  "name": "koululaskuri",
+  "name": "laskuri",
   "version": "1.0.0",
-  "description": "Ilmoittaa koulupäivien määrän Discordiin",
+  "description": "Ilmoittaa ajan tiettyyn alkuajankohtaan ja sen jälkeen loppuajankohtaan määrän Discordiin",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/raikasdev/koululaskuri.git"
+    "url": "https://github.com/raikasdev/laskuri.git"
   },
   "keywords": [
-    "intti"
+    "laskuri"
   ],
   "author": "raikasdev",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/raikasdev/koululaskuri/issues"
+    "url": "https://github.com/raikasdev/laskuri/issues"
   },
-  "homepage": "https://github.com/raikasdev/koululaskuri#readme",
+  "homepage": "https://github.com/raikasdev/laskuri#readme",
   "dependencies": {
     "discord.js": "^12.5.3"
   }

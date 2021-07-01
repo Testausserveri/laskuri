@@ -1,36 +1,11 @@
 {
   "subscribers": {
-    "<@250662753541423115>": {
-      "hideOnSummerVacation": true,
-      "autumnStart": "2021-08-11",
-      "autumnEnd": "2021-12-22",
-      "springStart": "2022-01-10",
-      "springEnd": "2022-06-04",
-      "breaks": [{
-        "name": "Syysloma",
-        "start": "2021-10-18",
-        "end": "2021-10-24"
-      },
+    "<@464685299214319616>": [
       {
-        "name": "Itsenäisyyspäivä",
-        "start": "2021-12-06",
-        "end": "2021-12-06"
-      },
-      {
-        "name": "Talviloma",
-        "start": "2022-02-28",
-        "end": "2022-03-06"
-      },
-      {
-        "name": "Pääsiäinen",
-        "start": "2022-04-15",
-        "end": "2022-04-18"
-      },
-      {
-        "name": "Helatorstai",
-        "start": "2022-05-26",
-        "end": "2022-05-26"
-      }]
-    }
+        "name": "Loma",
+        "start": "2021-07-07",
+        "end": "2021-08-01"
+      }
+    ]
   }
 }
